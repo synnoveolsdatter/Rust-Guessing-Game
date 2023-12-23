@@ -1,0 +1,8 @@
+[package]
+name = "rust_guessing_game"
+version = "0.0.1"
+authors = ["github.com/synnoveolsdatter"]
+edition = "2021"
+
+[dependencies]
+rand = "0.6.0"
